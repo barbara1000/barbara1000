@@ -4,7 +4,10 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer&width=500&height=50">
 </p>
-<img src="https://github.com/tu-usuario/tu-repositorio/blob/main/images/Avatar.webp?raw=true">
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/barbara1000/barbara1000/refs/heads/main/Avatar.webp?raw=true" alt="Avatar" width="150" style="border-radius: left 15px;">
+</p>
 
 <h2>Skills</h2>
 
