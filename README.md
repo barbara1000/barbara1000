@@ -4,7 +4,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer&width=500&height=50">
 </p>
-
+![Logo del proyecto](Avatar.webp)
 <h2>Skills</h2>
 
 <h3>Backend</h3>
