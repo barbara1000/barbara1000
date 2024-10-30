@@ -10,8 +10,7 @@
 </p>
 <h2>Acerca de mí</h2>
 <p>Soy Programadora Web Full Stack, actualmente estoy apliando y perfeccionando mis conocimientos en Frontend y en Backend. Además estoy estudiando Projet Manager, ya que me gusta gestionar y dirigir proyectos. Tengo buenas habilidades comunicativas, por lo cual me resulta fácil trabajar en ambientes colaborativos e innovadores, donde pueda poner en práctica mis conocimientos y creatividad. <br>
-Cabe mencionar, también que otra de mis pasiones es la docencia, pues soy Profesora en Ciencias de la Educación y día a día me agrada fusionar mis dos facetas.
-    c</p>
+Cabe mencionar, también que otra de mis pasiones es la docencia, pues soy Profesora en Ciencias de la Educación y día a día me agrada fusionar mis dos facetas.</p>
 <h2>Skills</h2>
 
 <h3>Backend</h3>
