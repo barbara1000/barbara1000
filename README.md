@@ -8,7 +8,10 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/barbara1000/barbara1000/refs/heads/main/Avatar.webp?raw=true" alt="Avatar" width="150" style="border-radius: left 15px;">
 </p>
-
+<h2>Acerca de mí</h2>
+<p>Soy Programadora Web Full Stack, actualmente estoy apliando y perfeccionando mis conocimientos tanto en Frontend como en Backend. Además estoy estudiando Projet Manager ya que me gusta gestionar y dirigir proyectos. Tengo buenas habilidades comunicativas, por lo que me resulta fácil trabajar en ambientes colaborativos e innovadores, donde pueda poner en práctica mis conocimientos y creatividad.
+Cabe mencionar también que otra de mis pasiones es la docencia, pues soy Profesora de Ciencias de la Educación, día a día me agrada fusionar mis dos facetas en post de crear entornes creativos de aprendizaje donde la tecnología tenga un rol protagónico.
+    c</p>
 <h2>Skills</h2>
 
 <h3>Backend</h3>
